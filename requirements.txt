@@ -1,0 +1,9 @@
+pandas
+numpy
+psutil
+tldextract
+pycryptodome
+xlsxwriter
+pywin32; platform_system == "Windows"
+keyring; platform_system == "Darwin"
+secretstorage; platform_system == "Linux"
