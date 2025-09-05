@@ -1,5 +1,6 @@
 # Consent Risk Tracker – Browser Permissions & Cookie Auditor
 A comprehensive browser-powered system that helps users audit, track, and manage their digital privacy footprint by analyzing browser cookies and permissions data.
+
 ![image alt](https://github.com/jetsu03/CONSENT-RISK-TRACKER/blob/main/Graphs.jpg)
 
 ## Overview
